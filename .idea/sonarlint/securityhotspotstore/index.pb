@@ -1,3 +1,11 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+F
+contracts/staking.clar,0/4/04e6d8a0b693401a319e2ebf6f1abab8520c9ae4
+E
+tests/staking.test.ts,3/c/3c23be3f3575e9aa61d507141535acd958fbc551
+Q
+!contracts/dispute-resolution.clar,5/a/5acd40b2788851c069b177145b3954820caeb4e5
+P
+ tests/dispute-resolution.test.ts,8/3/83dac8f4da86f7a325bc49059e9bff6e05cc07d4
